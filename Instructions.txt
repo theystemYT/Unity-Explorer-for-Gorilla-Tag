@@ -1,0 +1,6 @@
+Since GitHub won't let me upload folders into my repository and only files, heres the steps on how to get Unity Explorer on Gorilla Tag. Now i will only be telling you what files you need to download and not a full tutorial. If you want to know how to get mods on Gorilla Tag, look for a tutorial in YouTube.
+Files you will need to download. 
+1: UniverseLib.Mono.dll
+2: UnityExplorer.BIE5.Mono.dll
+(These files are in my GitHub repository, which you should be in already if your reading this.)
+And you're done! You have gotten all the files you need. Now, if you already know how to get mods in Gorilla Tag, these two files will need to go to the plugins folder.
