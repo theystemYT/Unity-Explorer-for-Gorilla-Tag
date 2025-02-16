@@ -1,0 +1,1 @@
+Before downloading these files, please download the WARNING.txt file and the Instructions.txt file and read them both. It is recommended to do this as if you are confused on what to do, reading these files may help you. You don't need to do this, but it's recommended.
